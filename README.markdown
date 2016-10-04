@@ -1,5 +1,8 @@
 # javascript-koans
-Based on Edgecase's fantastic 
+
+This is the repo for my attempt at these JavaScript kaons
+
+Based on Edgecase's fantastic
 [Ruby koans](http://github.com/edgecase/ruby_koans), the goal of the
 Javascript koans is to teach you Javascript programming through
 testing.
@@ -16,7 +19,7 @@ you to solve more complicated problems and use more advanced techniques.
 
 ## Running the Koans
 Simply navigate to the Javascript Koans folder using a file browser, and
-double click on KoansRunnner.html. 
+double click on KoansRunnner.html.
 
 Any browser will do, but for the best results Firefox or Chrome is
 recommended. More stack trace information shows up for javascript on these
